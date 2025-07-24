@@ -1,0 +1,5 @@
+1. What is the distribution of listing prices?
+2. How are different room types distributed?
+3. How are listings distributed across different neighborhoods?
+4. What is the relationship between price and room type?
+5. How has the number of reviews changed over time?
